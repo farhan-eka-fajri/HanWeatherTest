@@ -1,0 +1,11 @@
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\HanWeatherTest.exe
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\appsettings.json
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\HanWeatherTest.dll
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\HanWeatherTest.deps.json
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\HanWeatherTest.runtimeconfig.json
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\HanWeatherTest.pdb
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\farha\OneDrive\ocbc bootcamp\C#\sesi13\HanWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
